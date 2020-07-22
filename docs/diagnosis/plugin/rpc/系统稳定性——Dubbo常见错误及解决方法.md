@@ -1,8 +1,9 @@
 # 系统稳定性——Dubbo 常见错误及解决方法
 
-> 作者：空冥  
+> 作者：吕仁琦（空冥）  
 > 创作日期：2019-07-18  
-> 专栏地址：[【稳定大于一切】](https://github.com/StabilityMan/StabilityGuide)
+> 专栏地址：[【稳定大于一切】](https://github.com/StabilityMan/StabilityGuide)  
+> PDF 格式：[系统稳定性——Dubbo常见错误及解决方法](https://github.com/StabilityMan/StabilityGuide/blob/master/docs/diagnosis/plugin/rpc/pdf/系统稳定性——Dubbo常见错误及解决方法.pdf)
 
 
 Dubbo作为高性能 RPC（Remote Procedure Call）框架已经成为 Apache 的顶级项目，意味着在全球被数以千计的公司所采用来其实现其分布式架构的互联集成，尤其是在国内更受欢迎。下面根据我们自身遇到的问题，加上用户提供的一些反馈，来大致梳理下 Dubbo 的常见错误及解决方法。
@@ -72,7 +73,10 @@ Dubbo服务端的业务线程数是 200 个，如果多个并发请求量超过�
 
 
 ## 加入我们
-【稳定大于一切】打造国内稳定性领域知识库，**让无法解决的问题少一点，让世界的确定性多一点**。
+【稳定大于一切】打造国内稳定性领域知识库，**让无法解决的问题少一点点，让世界的确定性多一点点**。
 
 * [GitHub 地址](https://github.com/StabilityMan/StabilityGuide)
-* 钉钉群号：23179349
+* 钉钉群号：
+	* 30000312（2群，推荐）
+	* 23179349（1群，已满）
+* 如果阅读本文有所收获，欢迎分享给身边的朋友，期待更多同学的加入！
